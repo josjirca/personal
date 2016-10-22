@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 sdfasfasfsaf
 talvez si suba
 nueva
+=======
+sdfasfasfsaf
+>>>>>>> parent of ff378ea... temp

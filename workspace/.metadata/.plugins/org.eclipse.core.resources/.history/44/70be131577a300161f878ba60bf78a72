@@ -1,0 +1,25 @@
+package base.items;
+
+import bases.Empaque;
+
+public class Hamburgesa implements Item {
+
+	@Override
+	public String nombre() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Empaque empaque() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Float precio() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

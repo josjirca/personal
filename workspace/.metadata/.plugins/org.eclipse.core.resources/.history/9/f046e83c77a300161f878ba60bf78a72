@@ -1,0 +1,8 @@
+package base.items;
+
+import bases.Empaque;
+
+public abstract class Hamburgesa implements Item {
+
+
+}

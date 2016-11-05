@@ -1,0 +1,21 @@
+package factory;
+
+import color.factory.Color;
+import shape.factory.Shape;
+
+public class ColorFactory extends AbstractFactory {
+
+	@Override
+	public Color getColor(String color) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Shape getShape(String shape) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 elements to &apos;Prototype/src/(default package)&apos;&#x0D;&#x0A;- Original project: &apos;Paquetes&apos;&#x0D;&#x0A;- Destination element: &apos;Prototype/src/(default package)&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     shape.factory.Cicrle.java&#x0D;&#x0A;     shape.factory.Square.java&#x0D;&#x0A;     shape.factory.Shape.java" description="Copy compilation units" destination="=Prototype/src&lt;" element1="/src&lt;shape.factory{Cicrle.java" element2="/src&lt;shape.factory{Square.java" element3="/src&lt;shape.factory{Shape.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1478368469962" units="3" version="1.0"/>
+</session>

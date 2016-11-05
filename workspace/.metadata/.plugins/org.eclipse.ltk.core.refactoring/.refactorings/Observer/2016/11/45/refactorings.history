@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;Fuente.java&apos; to &apos;FuenteEvento.java&apos;&#x0D;&#x0A;- Original project: &apos;Observer&apos;&#x0D;&#x0A;- Original element: &apos;Fuente.java&apos;&#x0D;&#x0A;- Renamed element: &apos;FuenteEvento.java&apos;" description="Rename compilation unit &apos;Fuente.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;{Fuente.java" name="FuenteEvento.java" references="false" stamp="1478374308856" version="1.0"/>
+</session>

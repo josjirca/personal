@@ -1,0 +1,15 @@
+package casado;
+
+import productos.*;
+
+public class CasadoBuilder {
+
+	public Casado ComboVegetariano()
+	{
+		Casado casado = new Casado();
+		casado.agregarItem(new Pepsi());
+		casado.agregarItem(new HamburgesaSoya());
+		return casado;
+	}
+	
+}

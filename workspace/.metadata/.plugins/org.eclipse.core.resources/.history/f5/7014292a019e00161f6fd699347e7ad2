@@ -1,0 +1,35 @@
+package excepciones;
+
+public class CtaBanco {
+
+	private String nombre;
+	private double fondos;
+	
+	public CtaBanco (String nombre, double fondos) {
+		this.nombre = nombre;
+		this.fondos = fondos;
+	}
+	
+	public String getNombre() {
+		return nombre;
+	}
+	
+	public double getFondos() {
+		return fondos;
+	}
+	
+	public void setNombre(String nombre) {
+		this.nombre = nombre;
+	}
+	
+	public void setFondos(double fondos) {
+		this.fondos = fondos;
+	}
+	
+	public retiro (double cantidad) throws withdraex
+	{
+		
+	}
+}
+  
+

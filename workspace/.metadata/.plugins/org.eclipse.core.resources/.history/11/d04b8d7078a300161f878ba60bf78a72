@@ -1,0 +1,7 @@
+package productos;
+
+import base.items.Regresco;
+
+public class CocaCola extends Regresco{
+
+}

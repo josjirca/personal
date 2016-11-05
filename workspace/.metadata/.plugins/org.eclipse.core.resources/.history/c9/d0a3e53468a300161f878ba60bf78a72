@@ -1,0 +1,31 @@
+package factory;
+
+import color.factory.Color;
+import color.factory.Red;
+import shape.factory.Shape;
+
+public class ColorFactory extends AbstractFactory {
+
+	@Override
+	public Color getColor(String color) {
+		// TODO Auto-generated method stub
+		
+		switch (color) {
+		case "ROJO":
+			return new Red;
+			break;
+
+		default:
+			break;
+		}
+		return null;
+	}
+
+	@Override
+	public Shape getShape(String shape) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+
+}

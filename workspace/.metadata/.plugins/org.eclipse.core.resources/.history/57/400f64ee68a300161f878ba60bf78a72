@@ -1,0 +1,35 @@
+package factory;
+
+import color.factory.Blue;
+import color.factory.Color;
+import color.factory.Green;
+import color.factory.Red;
+import shape.factory.Shape;
+import shape.factory.Square;
+import shape.factory.Cicrle;
+
+public class ShapeFactory extends AbstractFactory {
+
+	@Override
+	public Color getColor(String color) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Shape getShape(String shape) {
+		// TODO Auto-generated method stub
+		switch (shape.toUpperCase()) {
+		case "CUADRADO":
+			return new Square();
+		case "CIRCULO":
+			return new Cicrcle();
+		case "RECTANGULO":
+			return new Rectangle();
+		default:
+			break;
+		}
+		return null;
+	}
+
+}

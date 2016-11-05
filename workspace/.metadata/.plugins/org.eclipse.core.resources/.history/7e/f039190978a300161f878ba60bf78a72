@@ -1,0 +1,7 @@
+package productos;
+
+import base.items.*;
+
+public class HamburgesaPollo implements Hamburgesa{
+
+}

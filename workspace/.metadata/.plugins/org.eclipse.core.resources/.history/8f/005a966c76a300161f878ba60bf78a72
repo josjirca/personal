@@ -1,0 +1,7 @@
+package bases;
+
+public class Regresco {
+
+	public String nombre;
+	public Float precio;
+}

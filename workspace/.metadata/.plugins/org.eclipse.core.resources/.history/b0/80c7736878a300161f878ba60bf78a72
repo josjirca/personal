@@ -1,0 +1,7 @@
+package productos;
+
+import bases.Botella;
+
+public class CocaCola extends Botella{
+
+}

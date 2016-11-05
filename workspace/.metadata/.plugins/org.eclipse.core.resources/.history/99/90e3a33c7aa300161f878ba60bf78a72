@@ -1,0 +1,18 @@
+import casado.Casado;
+import productos.CocaCola;
+import productos.HamburgesaSoya;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Casado oCasado = new Casado();
+		oCasado.agregarItem(new CocaCola());
+		oCasado.agregarItem(new HamburgesaSoya());
+		oCasado.mostrarproductos();
+		oCasado.getCosto();
+		
+	}
+
+}

@@ -1,0 +1,16 @@
+package casado;
+
+import java.util.List;
+
+import base.items.Item;
+
+public class Casado {
+
+	private List<Item> items = new ArrayList<Item>();
+	
+	public void agregarItem(Item valor)
+	{
+		items.add(valor);
+	}
+	
+}

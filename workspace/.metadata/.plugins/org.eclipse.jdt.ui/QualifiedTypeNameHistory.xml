@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="java.util.Scanner"/>
 <fullyQualifiedTypeName name="java.text.BreakIterator"/>
 <fullyQualifiedTypeName name="java.io.BufferedReader"/>
 <fullyQualifiedTypeName name="java.io.InputStreamReader"/>
@@ -16,8 +15,41 @@
 <fullyQualifiedTypeName name="java.nio.file.Paths"/>
 <fullyQualifiedTypeName name="java.nio.file.Path"/>
 <fullyQualifiedTypeName name="java.nio.file.Files"/>
-<fullyQualifiedTypeName name="java.util.List"/>
-<fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="java.util.Stack"/>
 <fullyQualifiedTypeName name="java.util.Queue"/>
+<fullyQualifiedTypeName name="color.factory.Red"/>
+<fullyQualifiedTypeName name="color.factory.Green"/>
+<fullyQualifiedTypeName name="color.factory.Blue"/>
+<fullyQualifiedTypeName name="shape.factory.Square"/>
+<fullyQualifiedTypeName name="shape.factory.Cicrle"/>
+<fullyQualifiedTypeName name="shape.factory.Rectangle"/>
+<fullyQualifiedTypeName name="factory.AbstractFactory"/>
+<fullyQualifiedTypeName name="factory.FactoryProducer"/>
+<fullyQualifiedTypeName name="shape.factory.Shape"/>
+<fullyQualifiedTypeName name="color.factory.Color"/>
+<fullyQualifiedTypeName name="SingleObject"/>
+<fullyQualifiedTypeName name="bases.Empaque"/>
+<fullyQualifiedTypeName name="bases.Envoltura"/>
+<fullyQualifiedTypeName name="bases.Botella"/>
+<fullyQualifiedTypeName name="base.items.Regresco"/>
+<fullyQualifiedTypeName name="base.items.Hamburgesa"/>
+<fullyQualifiedTypeName name="base.items.Item"/>
+<fullyQualifiedTypeName name="casado.Casado"/>
+<fullyQualifiedTypeName name="productos.CocaCola"/>
+<fullyQualifiedTypeName name="productos.HamburgesaSoya"/>
+<fullyQualifiedTypeName name="casado.CasadoBuilder"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="productos.HamburgesaPollo"/>
+<fullyQualifiedTypeName name="java.lang.CloneNotSupportedException"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.util.Observable"/>
+<fullyQualifiedTypeName name="java.util.Observer"/>
+<fullyQualifiedTypeName name="ClassRunnable"/>
+<fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+<fullyQualifiedTypeName name="Contador"/>
+<fullyQualifiedTypeName name="java.lang.InterruptedException"/>
 </qualifiedTypeNameHistroy>

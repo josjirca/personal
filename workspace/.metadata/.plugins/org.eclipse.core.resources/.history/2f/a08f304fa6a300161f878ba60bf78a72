@@ -1,0 +1,20 @@
+
+public class Cliente {
+	
+	float balance = 100;
+	
+	synchronized void deposito (float amount)
+	{
+		
+	}
+
+	synchronized void retiro (float amount)
+	{
+		System.out.println("Iniciando retiro..");
+		
+		if(this.balance < amount)
+		{
+			System.out.println("No tiene suficientes fondos, esperando deposito..");
+		}
+	}
+}

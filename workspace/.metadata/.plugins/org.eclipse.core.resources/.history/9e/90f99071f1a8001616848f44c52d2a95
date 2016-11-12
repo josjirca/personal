@@ -1,0 +1,27 @@
+import java.util.List;
+
+
+
+public class Cliente {
+	private String nombre;
+	private int edad;
+	private TipoCliente tipocliente;
+	private List<Producto> productos;
+	private String getNombre() {
+		return nombre;
+	}
+	private void setNombre(String nombre) {
+		this.nombre = nombre;
+	}
+	private TipoCliente getTipocliente() {
+		return tipocliente;
+	}
+	private void setTipocliente(TipoCliente tipocliente) {
+		this.tipocliente = tipocliente;
+	}
+	
+	
+
+	
+	
+}

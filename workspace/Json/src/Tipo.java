@@ -1,0 +1,4 @@
+
+public enum Tipo {
+AHORRO,CORRIENTE,CERTIFICADO
+}

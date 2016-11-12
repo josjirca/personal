@@ -1,0 +1,12 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Hilo oj = new Hilo(1);
+		oj.start();
+		
+	}
+
+}

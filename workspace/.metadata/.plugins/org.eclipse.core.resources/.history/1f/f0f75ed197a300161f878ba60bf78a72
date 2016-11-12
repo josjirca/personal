@@ -1,0 +1,13 @@
+
+public class Hilo extends Thread{
+
+	public void run()
+	{
+		String s = ;
+		for (int i = 0; i <10000; i++) {
+			s += "A";
+			System.out.println(s);			
+		}
+				
+	}
+}
